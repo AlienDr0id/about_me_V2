@@ -202,6 +202,9 @@ a:visited {color: white;}
   html {
     font-size: 1.25em; /* 18 / 16 = 1.25 */
   }
+  article{
+    padding-bottom: 42vh;
+  }
 
 /* Layout Styles */
 /* ID selectors (major landmark/global HTML structures) */
